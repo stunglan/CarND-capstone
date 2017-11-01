@@ -1,7 +1,7 @@
 # Notes to capstone project 
-*Knut Sebastian Tungland*
 
-### Setting up the environment
+
+# Set up the environment
 
 ## Preparation
 I used the recipe from 
@@ -50,8 +50,7 @@ source devel/setup.sh
 roslaunch launch/styx.launch
 ```
 
-
-## start the simulator of the mac
+## Start the simulator on the mac
 
 and it works
 
@@ -68,7 +67,10 @@ Multiple bash sessions
 Simply open a new terminal and run the script again,  if your container is currently running it will attach to it. Therefore, you can have one terminal session to run the project and another one to query ROS's topic or what have you.
 
 
+# Tasks
 
 
-```
+## DBM Node
+
+
 
