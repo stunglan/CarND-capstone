@@ -52,7 +52,7 @@ roslaunch launch/styx.launch
 
 ## Start the simulator on the mac
 
-and it works
+and it works (the simulator and ros talks)
 
 
 
