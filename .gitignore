@@ -1,0 +1,10 @@
+*.py[cod]
+
+build
+devel
+
+CarND-TrackMasters-Capstone
+
+run.sh
+
+profile.tmp
