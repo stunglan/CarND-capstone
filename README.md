@@ -121,6 +121,14 @@ rostopic echo /vehicle/throttle_cmd
 rostopic echo /vehicle/steering_cmd
 rostopic echo /vehicle/brake_cmd
 rostopic echo /rosout
+```
+mac commands
+
+```
+
+open system_integration.app/
+
+open /Applications/Docker.app/ 
 
 ```
 
